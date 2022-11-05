@@ -49,7 +49,7 @@ export const Home = () => {
 			  className="todoInput"
 			/>
 			<button onClick={submitHandler} className="addButton" type="submit">
-			  <span><FaLeaf /></span>
+			  <span><FaLeafgit /></span>
 			</button>
 		  </form>
 	  );
