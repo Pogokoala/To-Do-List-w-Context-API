@@ -12,7 +12,7 @@ export const Todo = ({ text, todo, todos, setTodos }) => {
             
         </div>
         <div className="delete-button">
-            <button onClick={deleteTodo} className="remove-btn">Done</button>
+            <button onClick={deleteTodo} className="remove-btn">DonADSFADSFAe</button>
         </div>
         </div>
         
